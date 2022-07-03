@@ -1,5 +1,5 @@
 # metodologia-scrum
-O surgimneto da metodologia e a sua contribuição para o ambiente de desenvolvimento.
+O surgimento da metodologia e a sua contribuição para o ambiente de desenvolvimento.
 ## Referências 
 
 https://www.treasy.com.br/blog/scrum/
