@@ -1,0 +1,6 @@
+# Conhecendo o Scrum 
+
+*As metodologias de desenvolvimento ágil tem crescido consideravelmente no ramo de desenvolvimento de software, e uma que esta em grande ascensão no mercado atualmente é o Scrum, na qual foi elaborada para implementação de projetos a fim de garantir uma entrega mais rápida e eficiente do produto final.*
+*O Scrum surgiu no inicio dos anos de 1990, mas ficou popularmente conhecido apenas na década seguinte, destaca-se principalmente na melhoria de resultados que a empresa de software deseja obter, diferente do método tradicional cascata que segue etapas distintas, no Scrum o objetivo são as prioridades que esta diretamente ligada ao projeto realizado.*
+*A implementação dessa metodologia, veio garantir uma gestão de processos mais eficientes e elaboradas, com soluções inovativas possibilitando reduzir dificuldades, como a falta de planejamento, ênfase em comunicação em tempo real, documentação reduzida comparada a outras metodologias.*
+*Com o surgimento dessa nova metodologia a mesma gerou maior segurança e valor para os clientes, transição de um modelo tradicional para um modelo ágil, devido o novo método de trabalho a ser utilizado pela equipe de desenvolvimento. A implementação do Scrum requer uma mudança na mentalidade de cada participante do processo.*
